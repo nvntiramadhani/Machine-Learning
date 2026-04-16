@@ -1,9 +1,5 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/XIqCQ6SdgS8n3Z-f6r/giphy.gif" width="200">
-</p>
-
-# 🚀 Machine Learning Journey
+# 🚀 Machine Learning 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,7 +28,7 @@ cd Machine-Learning
 pip3 install -r requirements.txt
 
 # Contoh masuk ke pertemuan 1
-cd pertemuan_1 
+cd pertemuan_1 atau cd pertemuan_2
 
 # Menjalankan file utama
-python3 nama_file.py
+python3 nama_file.py ```
