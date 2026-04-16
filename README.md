@@ -21,7 +21,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project di komputer lokal A
 Persiapan Awal
 Lakukan kloning repositori ini ke direktori lokal:
 ```bash
-git clone [https://github.com/nvntiramadhani/Machine-Learning](https://github.com/nvntiramadhani/Machine-Learning)
+git clone https://github.com/nvntiramadhani/Machine-Learning.git
 
 cd Machine-Learning
 
