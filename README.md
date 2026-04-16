@@ -31,4 +31,4 @@ pip3 install -r requirements.txt
 cd pertemuan_1 atau cd pertemuan_2
 
 # Menjalankan file utama
-python3 nama_file.py ```
+python3 nama_file.py 
